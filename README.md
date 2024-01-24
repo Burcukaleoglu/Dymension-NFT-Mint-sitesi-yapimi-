@@ -81,7 +81,7 @@ https://thirdweb.com/dashboard
 
 ![7](https://github.com/Mysterious098/Dymension-App-yap-m-/assets/107887745/56b9f597-ead4-4faf-8aeb-0671307e0273)
 
-# isminizi index.html yazıyoruz ve aşağıda gösterdiğim gibi kodları yazıyorsunuz ben size kodları vereceğim fakat chatgpt kullanarak daha farklı şeyler yapabilirsiniz.
+# ismini index.html yazıyoruz ve aşağıda gösterdiğim gibi kodları yazıyorsunuz ben size kodları vereceğim fakat chatgpt kullanarak daha farklı şeyler yapabilirsiniz.
 
 ![c1](https://github.com/Mysterious098/Dymension-App-yap-m-/assets/107887745/4d3f2e77-46e9-4744-b291-84769dc54fc8)
 
