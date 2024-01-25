@@ -157,6 +157,10 @@ https://thirdweb.com/dashboard
 
 # İstediğiniz ismi yazın ve save diyin siteniz hazır. Hata olduysa mağzur görün döküman yazan biri değilim :D
 
+# Kendi Faucetinizi aşağıdaki github linkinden yapabilirsiniz videolu anlatımı mevcut
+
+https://github.com/0xDeploy/faucet-evm-template
+
 # Bunlarda benim linklerim kullanırsanız sevinirim : )
 
 https://portal.dymension.xyz/rollapp/burcukale_4112966-1
