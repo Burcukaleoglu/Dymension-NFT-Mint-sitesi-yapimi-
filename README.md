@@ -117,7 +117,7 @@ https://thirdweb.com/dashboard
     <div class="heading">BURAYA İSTEDİĞİNİZİ YAZABİLİRSİNİZ ÖRNEK ( BURCUKALE DYMENSİON ROLLAPP) GİBİ</div>
     <button onclick="window.location.href='BURAYA ROLLER LİNKİNİZİ YAZINIZ'">Rollapp</button>
     <span class="separator">⟡</span>
-    <button onclick="window.location.href='BURAYADA FAUCET LİNKİNİZİ YAZINIZ'">Faucet</button>
+    <button onclick="window.location.href='BURAYADA FAUCET LİNKİNİZİ YAZINIZ YAZININ SONUNDA FAUCET YAPIM LİNKİ MEVCUT'">Faucet</button>
     <span class="separator">⟡</span>
 </div>
 
