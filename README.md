@@ -163,7 +163,7 @@ https://github.com/0xDeploy/faucet-evm-template
 
 # Bunlarda benim linklerim kullanırsanız sevinirim : )
 
-https://portal.dymension.xyz/rollapp/burcukale_4112966-1
+[https://portal.dymension.xyz/rollapp/burcukale_4112966-1](https://devnet.dymension.xyz/rollapp/burcukale_4112966-1/metrics)
 
 https://burcukaledymensionrollapp.vercel.app/
 
