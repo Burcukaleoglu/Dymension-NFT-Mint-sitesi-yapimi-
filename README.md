@@ -63,7 +63,7 @@ https://thirdweb.com/dashboard
 
 ![3](https://github.com/Mysterious098/Dymension-App-yap-m-/assets/107887745/bf2d75c6-1800-4cdf-ba17-602c600c8c55)
 
-# burada tarih ve mint ücreti ne kadar olacak o kısımları ayarlıyoruzsunuz Diğer taraflar olduğu gibi kalabilir. mint ücreti ve tarihi ayarladıktan sonra aşağıya inip Save Phase diyoruz ve cüzdandan onaylıyoruz ( mint başlama tarihini burayı ne zaman okuyorsan 10 dk ileri olarak ayarlasan yeterli )
+# burada tarih ve mint ücreti ne kadar olacak o kısımları ayarlıyoruzsunuz Diğer taraflar olduğu gibi kalabilir. mint ücreti ve tarihi ayarladıktan sonra aşağıya inip Save Phase diyoruz ve cüzdandan onaylıyoruz ardından tekrar Save Phase diyoruz ve tekrar cüzdandan onaylıyoruz ( mint başlama tarihini burayı ne zaman okuyorsan 10 dk ileri olarak ayarlasan yeterli )
 
 ![4](https://github.com/Mysterious098/Dymension-App-yap-m-/assets/107887745/b45fa8d4-26fd-495e-ab0b-c38381cb2d23)
 
